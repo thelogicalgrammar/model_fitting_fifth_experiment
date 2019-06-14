@@ -1,6 +1,6 @@
 # Preregistered analysis
 
-The preregistered model for fitting the data from the fifth experiment of the PhD. 
+The preregistered model for fitting the data from the fifth and sixth experiment of the PhD. 
 We test the hypothesis that thinking about a set of stimuli in terms of an order, rather than similarity relations,
 causes a preference for monotone categories.
 
